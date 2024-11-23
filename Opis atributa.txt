@@ -1,0 +1,11 @@
+Year  -  godina leta
+Month  -  mesec leta
+DayOfMonth  -  dan leta
+DayOfWeek  -  kog dana u nedelji se desio let (1 - ponedeljak, 2 - utorak itd.)
+ElapsedTime  -  koliko minuta je ukupno trajao let
+AirTime  -  koliko minuta je avion bio u vazduhu
+ArrivalDelay  -  koliko je kasnio avion u dolasku (negativna vrednost znači da je sleteo pre očekivanog vremena)
+DepartureDelay  -  koliko je kasnio avion u polasku
+Origin  -  skraćenica polaznog grada (odakle je krenuo avion)
+Destination  -  skraćenica odredišta
+Distance  - rastojanje između gradova u km
